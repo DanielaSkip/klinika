@@ -1,0 +1,41 @@
+Pet's name: Snezok
+Pet's age: 10
+Pet's weight: 62.0 kg
+Health: true
+Species: Cat
+Acepromazine dosage: 0.124 ml
+Carprofen dosage: 2.48 ml
+
+Pet's name: Jorik
+Pet's age: 5
+Pet's weight: 10.0kg
+Health: true
+species: Turtle
+Acepromazine dosage: 0.02 ml
+Carprofen dosage: 0.0 ml
+
+Pet's name: Kesha
+Pet's age: 7
+Pet's weight: 8.0 kg
+Health: true
+Species: Parrot
+Classificationtrue
+Acepromazine dosage: 0.016 ml
+Carprofen dosage: 0.0 ml
+
+Pet's name: Farik
+Pet's age: 6
+Pet's weight: 4.0kg
+Health: true
+species: Cat
+Acepromazine dosage: 0.008 ml
+Carprofen dosage: 0.16 ml
+
+Pet's name: Bobik
+Pet's age: 3
+Pet's weight: 9.0kg
+Health: true
+species: Dog
+Acepromazine dosage: 0.27 ml
+Carprofen dosage: 0.72 ml
+
